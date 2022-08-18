@@ -1,0 +1,14 @@
+# Exercícios Python 3 - Curso em Vídeo
+
+Esse repositório tem como objetivo publicar todos os exercícios propostos durante o curso de python do [Curso em Vídeo](https://www.cursoemvideo.com/) 
+
+***
+## Mundos 🌎
+
+* [Python 3 - Mundo 1](./Exerc%C3%ADcios/Python-3-Mundo-1/) 
+* [Python 3 - Mundo 2](./Exerc%C3%ADcios/Python-3-Mundo-2/)
+* [Python 3 - Mundo 3](./Exerc%C3%ADcios/Python-3-Mundo-3/)
+***
+![Badge all](https://img.shields.io/badge/Exerc%C3%ADcios%20Propostos-115-brightgreen)
+![Badge make](https://img.shields.io/badge/Exerc%C3%ADcios%20Realizados-91-white)
+![Badge status](https://img.shields.io/badge/Status-%20in%20progress-blue)
