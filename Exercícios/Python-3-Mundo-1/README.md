@@ -1,5 +1,5 @@
 # Exercícios
-
+![Badge Finalizado](https://img.shields.io/badge/Finalizado-9%20de%20dezembro%20de%202021-green)
 #### Conhecendo a linguagem
 
 - Exercício Python #01 - [Deixando tudo pronto](./ex001.py)

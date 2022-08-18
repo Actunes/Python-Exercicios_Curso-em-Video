@@ -1,5 +1,5 @@
 # Exercícios
-
+![Badge Finalizado](https://img.shields.io/badge/Finalizado-2%20de%20maio%20de%202022-green)
 #### Condições em Python (if..elif)
 
 - Exercício Python #036 - [Aprovando empréstimo](./ex036.py)
