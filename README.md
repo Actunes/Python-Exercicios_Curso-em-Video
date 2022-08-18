@@ -5,8 +5,8 @@ Esse repositório tem como objetivo publicar todos os exercícios propostos dura
 ***
 ## Mundos 🌎
 
-* [Python 3 - Mundo 1](./Exerc%C3%ADcios/Python-3-Mundo-1/) 
-* [Python 3 - Mundo 2](./Exerc%C3%ADcios/Python-3-Mundo-2/)
+* [Python 3 - Mundo 1](./Exerc%C3%ADcios/Python-3-Mundo-1/README.md) 
+* [Python 3 - Mundo 2](./Exerc%C3%ADcios/Python-3-Mundo-2/README.md)
 * [Python 3 - Mundo 3](./Exerc%C3%ADcios/Python-3-Mundo-3/)
 ***
 ![Badge all](https://img.shields.io/badge/Exerc%C3%ADcios%20Propostos-115-brightgreen)
