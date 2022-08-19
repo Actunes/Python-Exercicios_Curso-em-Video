@@ -1,11 +1,5 @@
 <img id = 'mundo2' src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo2-circle.png" alt="Minha Figura" height = 350>
 
-<style>
-    #mundo2 {
-        border-radius: 50%
-    }
-</style>
-
 ![Badge Finalizado](https://img.shields.io/badge/Finalizado-2%20de%20maio%20de%202022-green)
 #### Condições em Python (if..elif)
 
