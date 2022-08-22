@@ -12,5 +12,3 @@ Esse repositório tem como objetivo publicar todos os exercícios propostos dura
 ![Badge all](https://img.shields.io/badge/Exerc%C3%ADcios%20Propostos-115-brightgreen)
 ![Badge make](https://img.shields.io/badge/Exerc%C3%ADcios%20Realizados-91-white)
 ![Badge status](https://img.shields.io/badge/Status-%20in%20progress-blue)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=actunes&repo=Python-Exercicios_Curso-em-Video)](https://github.com/Actunes/Python-Exercicios_Curso-em-Video)
